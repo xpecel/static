@@ -1,0 +1,2 @@
+# static
+hold static file
