@@ -1,0 +1,39 @@
+body{
+  height: 100%;
+  font-family: 'Iosevka Nerd Font Mono', monospace;
+  text-decoration: none;
+}
+
+.alert-success-sm {
+  background-color:  #009900;
+  font-family: 'Iosevka Nerd Font Mono', monospace;
+  color: #ffffff;
+  height: 40px;
+  padding: 5px;
+  font-size: 14px;
+  line-height: 30px;
+}
+.alert-danger-sm {
+  background-color:  #cc0000;
+  font-family: 'Iosevka Nerd Font Mono', monospace;
+  color: #ffffff;
+  height: 40px;
+  padding: 5px;
+  font-size: 14px;
+  line-height: 30px;
+}
+.alert-warning-sm {
+  background-color:  #e6b800;
+  font-family: 'Iosevka Nerd Font Mono', monospace;
+  color: #ffffff;
+  height: 40px;
+  padding: 5px;
+  font-size: 14px;
+  line-height: 30px;
+}
+hr {
+  background-color: #ff00ff;
+  height: 2px;
+  border: none;
+}
+
